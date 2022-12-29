@@ -19,7 +19,7 @@ from werkzeug.middleware.proxy_fix import ProxyFix
 CLIENT_CONFIG = {
     "web": {
         "client_id": "client-id",
-        "project_id": "frappedesk-364020",
+        "project_id": "some-id-364020",
         "auth_uri": "https://accounts.google.com/o/oauth2/auth",
         "token_uri": "https://oauth2.googleapis.com/token",
         "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
